@@ -84,7 +84,9 @@ flowchart TD
 | Max iterations | 300 | 300 |
 
 ## Model Performance
+![LinguaLens model performance visualization](assets/model-performance.svg)
 
+This chart summarizes the reported Macro F1 scores of the two baseline language detection models and the short-text subset performance of the character-based model.
 | Model | Reported Test Macro F1 |
 |---|---:|
 | Word N-gram + Logistic Regression | 0.9965 |
